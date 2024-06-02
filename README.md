@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aditya
-- 👀 I’m interested in u
-- 🌱 I’m currently learning javascript, html, css, vue, node
-- 💞️ I’m looking to collaborate on project that fun 
-- 📫 How to reach me ...
+- 👀 I’m interested in Learning everything
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on projects that fun 
+- 📫 How to reach me through my linked.in
 
 <!---
 Aditya930GO/Aditya930GO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
